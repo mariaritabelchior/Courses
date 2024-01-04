@@ -20,7 +20,7 @@ About data learning / Sobre o aprendizado de dados
 
 - English / Inglês
 
-- Data Scientist / Ciência de Dados
+- Data Scientist / Cientista de Dados
 
 - Data Engineer / Engenheiro de Dados
 
