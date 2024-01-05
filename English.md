@@ -57,3 +57,8 @@ Estamos tentando lidar com o assunto do mau comportamento dele.
 - Which
 - Budget
 - Knowledge
+- Further
+- Frontier
+- Likelihood
+- Asymmetry
+- Entailed
